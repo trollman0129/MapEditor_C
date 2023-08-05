@@ -1,0 +1,6 @@
+C:\Users\troll\source\repos\MapEditer\MapEditer\bin\Debug\MapEditer.exe
+C:\Users\troll\source\repos\MapEditer\MapEditer\bin\Debug\MapEditer.pdb
+C:\Users\troll\source\repos\MapEditer\MapEditer\obj\Debug\MapEditer.csproj.AssemblyReference.cache
+C:\Users\troll\source\repos\MapEditer\MapEditer\obj\Debug\MapEditer.csproj.CoreCompileInputs.cache
+C:\Users\troll\source\repos\MapEditer\MapEditer\obj\Debug\MapEditer.exe
+C:\Users\troll\source\repos\MapEditer\MapEditer\obj\Debug\MapEditer.pdb
